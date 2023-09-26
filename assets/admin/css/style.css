@@ -1,0 +1,215 @@
+@font-face { 
+    font-family: Raleway; 
+    src: url('fonts/Raleway-Regular.ttf'); 
+} 
+body{
+    overflow-x: hidden;
+}
+*{
+  font-family: 'Raleway', sans-serif;
+}
+body#tinymce p {
+    text-align: left !important;
+}
+a{color:#ed2430;}
+.inline-block{
+    display: inline-block;
+}
+.nav-tabs li a {
+    font-weight: 600;
+}
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover{
+    color:#fff;
+    background-color: #ed2430;
+    border:none;
+}
+
+.nav-tabs>li>a:hover,
+.nav-tabs>li.active>a{
+    color:#fff;
+    background-color: #6a6a6b;
+    border:none;    
+
+}
+.nav-tabs>li{margin-bottom: -2px;}
+.nav-tabs{border-bottom: 1px solid #ed2430;}
+.container{width:100%;}
+.osnt-title{
+    color: #fff;
+    padding: 10px 0px;
+}
+.padding-right-4{
+    padding-right: 2rem !important;
+}
+.osnt_save_route {
+    background: #ed2430;
+    color: #fff;
+}
+.osnt_save_route:hover{
+    background-color: #fff;
+    color: #ed2430;
+}
+.wp-core-ui select{
+    width: 100%;
+    max-width: 100%!important;
+}
+hr{
+    margin-bottom: 35px;
+    border-top: 5px solid #318dde;
+    border-style: double;
+}
+h3.osnt_title{
+    text-decoration: underline;
+    color: #ffffff;
+    margin-bottom: 35px;
+    display: block;
+    clear: both;
+    overflow: hidden;
+    text-align: center;
+    background: #164688;
+    padding: 17px;
+}
+.osnt_half{
+    width: calc(100% - 106px);
+}
+#v-pills-tab{
+   background: rgba(4,3,3,.9);
+    padding: 20px;
+    height: 100%;
+}
+.nav-pills .nav-link{
+    color: #fff;
+    border: none;
+    border-radius: unset;
+    font-size: 14px;
+}
+.nav-pills .nav-link {
+    background-color: #ed2430;
+    color: #fff!important;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.nav-pills .nav-link.active{
+    color:#fff;
+    background-color: #6a6a6b;
+    border:none;  
+}
+.wp-person a:focus .gravatar, a:focus, a:focus .media-icon img {
+    box-shadow: 0 0 0 1px #ed2430,0 0 2px 1px rgba(79,148,212,.8) !important;
+    outline: 1px solid transparent !important;
+}
+
+.fleft{
+    float: left;
+}
+.fright{
+    float: right;
+}
+.bg-col12{
+    background-color: #030304;
+    padding-top: 20px!important;
+    text-align: right;
+    margin-left: -15px;
+    margin-bottom: 20px;
+}
+.bg-gray{
+    background: rgba(4, 3, 3, .7);
+}
+.gray_back{
+    margin-left: -15px;
+}
+.form_back{
+    background: rgba(4, 3, 3, .7);
+    padding-top: 20px!important;
+    text-align: left;
+    margin-left:15px;
+}
+
+.form_back.no-margin-left{
+    background: rgba(4, 3, 3, .7);
+    padding-top: 20px!important;
+    text-align: left;
+    margin-left:0;
+}
+.gray_back_ar{
+    margin-right: -16px;
+}
+.form_back_ar{
+    background: rgba(4, 3, 3, .7);
+    padding-top: 20px!important;
+    text-align: right;
+    margin-right:15px;
+}
+.form_back_ar.no-margin-right{
+    background: rgba(4, 3, 3, .7);
+    padding-top: 20px!important;
+    text-align: right;
+    margin-right:0;
+}
+.mr-3 {
+    margin-right: 0.5rem;
+}
+.form_back_ar .text-left,
+.form_back_ar p,
+.form_back_ar .form-control,
+.form_back_ar input[type=text],
+.form_back_ar input[type=number],
+.form_back_ar input[type=file]{
+    text-align:right !important;
+    direction:rtl;
+}
+.gray_color{
+    background: rgba(4, 3, 3, .7);
+    padding-top: 20px!important;
+    text-align: left;
+}
+#v-pills-tabContent{
+    clear: both;
+    overflow: hidden;
+}
+.tab-pane img{max-width: 250px;}
+#adminmenu .wp-menu-image img{
+    max-width: 15px;
+}
+#adminmenu div.wp-menu-image img{
+    height: 20px;
+}
+a#v-pills-secondsection-tab:focus {
+    box-shadow: 0 0 0 1px #9e7626, 0 0 2px 1px rgb(158 118 38);
+    outline: 1px solid transparent;
+}
+.btn-info {
+    color: #fff!important;
+    background-color: #ed2430!important;
+    border-color: #ed2430!important;
+    width: 97px;
+    padding: .25rem .75rem;
+    margin-top:-3px;
+}
+.btn-info:hover {
+    color: #ed2430 !important;
+    background-color: #fff!important;
+    border-color: #ed2430!important;
+}
+
+.accordion-button{
+    background-color: #ed2430;
+    color: #fff;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #212529;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+
+.accordion-button:focus{
+    border: none;
+    border-color: transparent;
+    box-shadow: none;
+}
+
+.accordion-body {
+    padding: 1rem 0rem;
+}

@@ -1,0 +1,661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mcg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-04 23:35+0000\n"
+"PO-Revision-Date: 2022-08-17 19:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: mcg"
+
+#. Name of the template
+msgid "About Us Template"
+msgstr ""
+
+#: lib/mcg_theme_init.php:457 lib/mcg_theme_init.php:461
+msgid "Add New Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:313 lib/mcg_theme_init.php:317
+msgid "Add New Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:999 lib/mcg_theme_init.php:1003
+msgid "Add New Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:593 lib/mcg_theme_init.php:597
+msgid "Add New Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1134 lib/mcg_theme_init.php:1138
+msgid "Add New Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:729 lib/mcg_theme_init.php:733
+msgid "Add New Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:453
+msgctxt "Add New on Toolbar"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:309
+msgctxt "Add New on Toolbar"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:995
+msgctxt "Add New on Toolbar"
+msgid "Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:589
+msgctxt "Add New on Toolbar"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1130
+msgctxt "Add New on Toolbar"
+msgid "Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:725
+msgctxt "Add New on Toolbar"
+msgid "Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:860
+msgctxt "Add New on Toolbar"
+msgid "Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:169
+msgctxt "Add New on Toolbar"
+msgid "Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:27
+msgctxt "Add New on Toolbar"
+msgid "sliders"
+msgstr ""
+
+#: lib/mcg_theme_init.php:864 lib/mcg_theme_init.php:868
+msgid "Add New Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:173 lib/mcg_theme_init.php:177
+msgid "Add New Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:31 lib/mcg_theme_init.php:35
+msgid "Add New slider"
+msgstr ""
+
+#: lib/mcg_theme_init.php:449
+msgctxt "Admin Menu text"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:305
+msgctxt "Admin Menu text"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:991
+msgctxt "Admin Menu text"
+msgid "Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:585
+msgctxt "Admin Menu text"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1126
+msgctxt "Admin Menu text"
+msgid "Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:721
+msgctxt "Admin Menu text"
+msgid "Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:856
+msgctxt "Admin Menu text"
+msgid "Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:165
+msgctxt "Admin Menu text"
+msgid "Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:23
+msgctxt "Admin Menu text"
+msgid "sliders"
+msgstr ""
+
+#: lib/mcg_theme_init.php:441
+msgctxt "Affiliate"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:477
+msgid "All Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:333
+msgid "All Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1019
+msgid "All Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:613
+msgid "All Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1154
+msgid "All Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:749
+msgid "All Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:884
+msgid "All Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:193
+msgid "All Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:51
+msgid "All slider"
+msgstr ""
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr ""
+
+#: footer.php:115 index.php:550
+msgid "Brands"
+msgstr "العلامات التجارية"
+
+#: lib/mcg_theme_init.php:297
+msgctxt "Brands"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:983
+msgctxt "Brands Service Center"
+msgid "Brands Service Center"
+msgstr ""
+
+#: page-contact.php:63
+msgid "Call now"
+msgstr "اتصل الان"
+
+#: lib/mcg_theme_init.php:577
+msgctxt "Careers"
+msgid "Careers"
+msgstr ""
+
+#. Name of the template
+msgid "Careers Template"
+msgstr ""
+
+#: footer.php:335
+msgid "Choose Position"
+msgstr "أختر وظيفة"
+
+#: lib/mcg_meta_fields.php:291
+msgid "Contact Form Shortcode Arabic: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:265
+msgid "Contact Form Shortcode: "
+msgstr ""
+
+#: footer.php:149
+msgid "Contact Us"
+msgstr "تواصل معنا "
+
+#. Name of the template
+msgid "Contact Us Template"
+msgstr ""
+
+#: lib/mcg_theme_init.php:469
+msgid "Edit Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:325
+msgid "Edit Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1011
+msgid "Edit Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:605
+msgid "Edit Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1146
+msgid "Edit Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:741
+msgid "Edit Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:876
+msgid "Edit Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:185
+msgid "Edit Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:43
+msgid "Edit slider"
+msgstr ""
+
+#: page-contact.php:58
+msgid "Email address"
+msgstr "عنوان البريد الالكترونى"
+
+#: lib/mcg_theme_init.php:1118
+msgctxt "Equipment"
+msgid "Equipment"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:477
+msgid "Event Location: "
+msgstr "موقع الحدث:"
+
+#: lib/mcg_meta_fields.php:453
+msgid "Event Time: "
+msgstr ""
+
+#: lib/mcg_theme_init.php:713
+msgctxt "Events"
+msgid "Events"
+msgstr ""
+
+#. Name of the template
+msgid "Events Template"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:201
+msgid "Flaticon Icon: "
+msgstr ""
+
+#: page_title.php:61
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: lib/mcg_theme_init.php:15
+msgctxt "Homepage slider"
+msgid "sliders"
+msgstr ""
+
+#: header.php:139
+msgid "Hot Line"
+msgstr "الخط الساخن"
+
+#: lib/mcg_meta_fields.php:61
+msgid "Link Text: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:85
+msgid "Link URL: "
+msgstr ""
+
+#: single-events.php:89
+msgid "Location"
+msgstr "موقع الحدث"
+
+#: footer.php:301
+msgid "Misr Castle Group &copy; copyright"
+msgstr "حقوق النشر محفوظة &copy; مجموعة قلعة مصر"
+
+#: index.php:548
+msgid "More"
+msgstr "مزيد من"
+
+#: lib/mcg_theme_init.php:465
+msgid "New Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:321
+msgid "New Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1007
+msgid "New Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:601
+msgid "New Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1142
+msgid "New Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:737
+msgid "New Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:872
+msgid "New Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:181
+msgid "New Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:39
+msgid "New slider"
+msgstr ""
+
+#. Name of the template
+msgid "News Template"
+msgstr ""
+
+#: lib/mcg_theme_init.php:493
+msgid "No Affiliate found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:489
+msgid "No Affiliate found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:349
+msgid "No Brands found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:345
+msgid "No Brands found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:1035
+msgid "No Brands Service Center found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:1031
+msgid "No Brands Service Center found."
+msgstr ""
+
+#: page-careers.php:118
+msgid "No careers avilable right now!"
+msgstr ""
+
+#: lib/mcg_theme_init.php:629
+msgid "No Careers found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:625
+msgid "No Careers found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:1170
+msgid "No Equipment found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:1166
+msgid "No Equipment found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:765
+msgid "No Events found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:761
+msgid "No Events found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:900
+msgid "No Service Center found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:896
+msgid "No Service Center found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:209
+msgid "No Services found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:205
+msgid "No Services found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:67
+msgid "No slider found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:63
+msgid "No slider found."
+msgstr ""
+
+#: page_title.php:39 page_title.php:85
+msgid "Page Not Found"
+msgstr ""
+
+#: lib/mcg_theme_init.php:485
+msgid "Parent Affiliate:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1027
+msgid "Parent Brands Service Center:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:341
+msgid "Parent Brands:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:621
+msgid "Parent Careers:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1162
+msgid "Parent Equipment:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:757
+msgid "Parent Events:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:892
+msgid "Parent Service Center:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:201
+msgid "Parent Services:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:59
+msgid "Parent slider:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:445
+msgctxt "Post type singular name"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:301
+msgctxt "Post type singular name"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:987
+msgctxt "Post type singular name"
+msgid "Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:581
+msgctxt "Post type singular name"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1122
+msgctxt "Post type singular name"
+msgid "Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:717
+msgctxt "Post type singular name"
+msgid "Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:852
+msgctxt "Post type singular name"
+msgid "Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:161
+msgctxt "Post type singular name"
+msgid "Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:19
+msgctxt "Post type singular name"
+msgid "sliders"
+msgstr ""
+
+#: lib/mcg_theme_init.php:481
+msgid "Search Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:337
+msgid "Search Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1023
+msgid "Search Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:617
+msgid "Search Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1158
+msgid "Search Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:753
+msgid "Search Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:888
+msgid "Search Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:197
+msgid "Search Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:55
+msgid "Search slider"
+msgstr ""
+
+#: lib/mcg_theme_init.php:848
+msgctxt "Service Center"
+msgid "Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:157
+msgctxt "Services"
+msgid "Services"
+msgstr ""
+
+#. Name of the template
+msgid "Services Center Template"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:384
+msgid "Short Description Arabic: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:359
+msgid "Short Description: "
+msgstr ""
+
+#: single-events.php:81
+msgid "Starting Time"
+msgstr "وقت البدء"
+
+#: footer.php:83
+msgid "Useful Links"
+msgstr "روابط مفيدة"
+
+#: lib/mcg_theme_init.php:473
+msgid "View Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:329
+msgid "View Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1015
+msgid "View Brands Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:609
+msgid "View Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:1150
+msgid "View Equipment"
+msgstr ""
+
+#: lib/mcg_theme_init.php:745
+msgid "View Events"
+msgstr ""
+
+#: lib/mcg_theme_init.php:880
+msgid "View Service Center"
+msgstr ""
+
+#: lib/mcg_theme_init.php:189
+msgid "View Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:47
+msgid "View slider"
+msgstr ""
+
+#: page-contact.php:39
+msgid "Visit Us"
+msgstr "زورنا"
+
+#: lib/mcg_meta_fields.php:135
+msgid "عنوان الرابط: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:527
+msgid "مكان الحدث: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:111
+msgid "نص الرابط: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:503
+msgid "وقت الحدث: "
+msgstr ""

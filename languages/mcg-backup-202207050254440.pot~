@@ -1,0 +1,369 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mcg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-05 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: mcg"
+
+#. Name of the template
+msgid "About Us Template"
+msgstr ""
+
+#: lib/mcg_theme_init.php:229 lib/mcg_theme_init.php:231
+msgid "Add New Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:157 lib/mcg_theme_init.php:159
+msgid "Add New Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:297 lib/mcg_theme_init.php:299
+msgid "Add New Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:227
+msgctxt "Add New on Toolbar"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:155
+msgctxt "Add New on Toolbar"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:295
+msgctxt "Add New on Toolbar"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:85
+msgctxt "Add New on Toolbar"
+msgid "Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:14
+msgctxt "Add New on Toolbar"
+msgid "sliders"
+msgstr ""
+
+#: lib/mcg_theme_init.php:87 lib/mcg_theme_init.php:89
+msgid "Add New Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:16 lib/mcg_theme_init.php:18
+msgid "Add New slider"
+msgstr ""
+
+#: lib/mcg_theme_init.php:225
+msgctxt "Admin Menu text"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:153
+msgctxt "Admin Menu text"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:293
+msgctxt "Admin Menu text"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:83
+msgctxt "Admin Menu text"
+msgid "Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:12
+msgctxt "Admin Menu text"
+msgid "sliders"
+msgstr ""
+
+#: lib/mcg_theme_init.php:221
+msgctxt "Affiliate"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:239
+msgid "All Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:167
+msgid "All Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:307
+msgid "All Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:97
+msgid "All Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:26
+msgid "All slider"
+msgstr ""
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr ""
+
+#: index.php:266
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:149
+msgctxt "Brands"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:289
+msgctxt "Careers"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:146
+msgid "Contact Form Shortcode Arabic: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:133
+msgid "Contact Form Shortcode: "
+msgstr ""
+
+#: footer.php:60
+msgid "Contact Us"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Us Template"
+msgstr ""
+
+#: lib/mcg_theme_init.php:235
+msgid "Edit Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:163
+msgid "Edit Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:303
+msgid "Edit Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:93
+msgid "Edit Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:22
+msgid "Edit slider"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:101
+msgid "Flaticon Icon: "
+msgstr ""
+
+#: page_title.php:29
+msgid "Home"
+msgstr ""
+
+#: lib/mcg_theme_init.php:8
+msgctxt "Homepage slider"
+msgid "sliders"
+msgstr ""
+
+#: header.php:74
+msgid "Hot Line"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:31
+msgid "Link Text: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:43
+msgid "Link URL: "
+msgstr ""
+
+#: footer.php:136
+msgid "Misr Castle Group &copy; copyright"
+msgstr ""
+
+#: index.php:265
+msgid "More"
+msgstr ""
+
+#: lib/mcg_theme_init.php:233
+msgid "New Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:161
+msgid "New Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:301
+msgid "New Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:91
+msgid "New Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:20
+msgid "New slider"
+msgstr ""
+
+#: lib/mcg_theme_init.php:247
+msgid "No Affiliate found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:245
+msgid "No Affiliate found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:175
+msgid "No Brands found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:173
+msgid "No Brands found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:315
+msgid "No Careers found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:313
+msgid "No Careers found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:105
+msgid "No Services found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:103
+msgid "No Services found."
+msgstr ""
+
+#: lib/mcg_theme_init.php:34
+msgid "No slider found in Trash."
+msgstr ""
+
+#: lib/mcg_theme_init.php:32
+msgid "No slider found."
+msgstr ""
+
+#: page_title.php:19 page_title.php:40
+msgid "Page Not Found"
+msgstr ""
+
+#: lib/mcg_theme_init.php:243
+msgid "Parent Affiliate:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:171
+msgid "Parent Brands:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:311
+msgid "Parent Careers:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:101
+msgid "Parent Services:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:30
+msgid "Parent slider:"
+msgstr ""
+
+#: lib/mcg_theme_init.php:223
+msgctxt "Post type singular name"
+msgid "Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:151
+msgctxt "Post type singular name"
+msgid "Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:291
+msgctxt "Post type singular name"
+msgid "Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:81
+msgctxt "Post type singular name"
+msgid "Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:10
+msgctxt "Post type singular name"
+msgid "sliders"
+msgstr ""
+
+#: lib/mcg_theme_init.php:241
+msgid "Search Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:169
+msgid "Search Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:309
+msgid "Search Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:99
+msgid "Search Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:28
+msgid "Search slider"
+msgstr ""
+
+#: lib/mcg_theme_init.php:79
+msgctxt "Services"
+msgid "Services"
+msgstr ""
+
+#: footer.php:42
+msgid "Useful Links"
+msgstr ""
+
+#: lib/mcg_theme_init.php:237
+msgid "View Affiliate"
+msgstr ""
+
+#: lib/mcg_theme_init.php:165
+msgid "View Brands"
+msgstr ""
+
+#: lib/mcg_theme_init.php:305
+msgid "View Careers"
+msgstr ""
+
+#: lib/mcg_theme_init.php:95
+msgid "View Services"
+msgstr ""
+
+#: lib/mcg_theme_init.php:24
+msgid "View slider"
+msgstr ""
+
+#: lib/mcg_meta_fields.php:68
+msgid "عنوان الرابط: "
+msgstr ""
+
+#: lib/mcg_meta_fields.php:56
+msgid "نص الرابط: "
+msgstr ""
